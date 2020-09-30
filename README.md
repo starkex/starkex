@@ -1,6 +1,6 @@
 ### Konnichiwa, I'm Shubham - aka [ Robert Stark ] 👋
 
-- 🔭 I’m currently busy in increasing my Repositories on Github.
+- 🔭 I’m currently busy in Upskilling myself.
   
 - 🌱 I’m currently learning everything :)
   
