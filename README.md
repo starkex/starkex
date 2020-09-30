@@ -30,7 +30,7 @@
 </div>
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="10%">
   
 ### Backend  
 <div >  
@@ -63,31 +63,31 @@
 <table>
 <tr>
   
-<td valign="top" width="35%">
+<td valign="top" width="10%">
 <div >  
 <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNqpqyWlb2T-rKGhWyLAUdlMIRsov6dx7B0iqQbkUo3AUoTz2xac1r4mYiaDzDg7eYfxCQOYY1uzg5gE1X-_PGkBKoWVCG43-dwQ&usqp=CAU&ec=45707744" alt="Atom" height="50" />  
   </div>
   </td>
   
-<td valign="top" width="35%">
+<td valign="top" width="10%">
 <div>
 <img style="margin: 20px" src="https://img.icons8.com/fluent/2x/visual-studio-code-2019.png" alt="Visual Studio Code" height="50" />  
  </div>
   </td>
 
-<td valign="top" width="35%">  
+<td valign="top" width="10%">  
 <div>
 <img style="margin: 20px" src="https://img.icons8.com/material-rounded/72/github.png" alt="GitHub" height="50" />
  </div>
   </td>
   
-<td valign="top" width="35%"> 
+<td valign="top" width="10%"> 
   <div>
 <img style="margin: 20px" src="https://www.flaticon.com/svg/static/icons/svg/446/446969.svg" alt="Terminal" height="50" />
  </div>
   </td>
 
-<td valign="top" width="35%">
+<td valign="top" width="10%">
 <div>
 <img style="margin: 20px" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" alt="PyCharm" height="50" />
  </div>
