@@ -65,6 +65,7 @@
 </td>
 
 <td valign="top" width="33%">
+  
 ### Backend  
 <div >  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -78,6 +79,7 @@
 </td>
 
 <td valign="top" width="33%">
+  
 ### DevOps  
 <div >  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="50" />  
