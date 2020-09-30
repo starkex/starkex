@@ -87,12 +87,19 @@
 
 <br/> 
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Robert Stark's Github Stats" src="https://github-readme-stats.codeSTACKr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+## Github Stats  
+<div style='justify-content:space-between;display:flex;flex-direction' >
+<img src="https://github-readme-stats.vercel.app/api?username=starkex&show_icons=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starkex&layout=compact" align="center" />  
+</div>
+<br/>  
 
-</details>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=starkex&&style=flat-square" align="center" />
+</div>  
+
+<br />
 
 [website]: https://devshubham.me
 [twitter]: https://twitter.com/RobertS55592450?s=08
