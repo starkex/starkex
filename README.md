@@ -32,18 +32,15 @@
 <br />
 <br />
 
+### Frontend
 <table>
-
 <tr><td valign="top" width="33%">
-
-### Frontend  
+  
 <div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" alt="Netbeans" height="50" />   
+<img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNqpqyWlb2T-rKGhWyLAUdlMIRsov6dx7B0iqQbkUo3AUoTz2xac1r4mYiaDzDg7eYfxCQOYY1uzg5gE1X-_PGkBKoWVCG43-dwQ&usqp=CAU&ec=45707744" alt="Atom" height="50" />  
+<img style="margin: 10px" src="https://img.icons8.com/fluent/2x/visual-studio-code-2019.png" alt="Visual Studio Code" height="50" />  
+<img style="margin: 10px" src="https://img.icons8.com/material-rounded/72/github.png" alt="GitHub" height="50" />
+   
 </div></td><td valign="top" width="33%">
 
 </table>  
