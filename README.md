@@ -89,7 +89,7 @@
 
 ## Github Stats  
 <div style='justify-content:space-between;display:flex;flex-direction' >
-<img src="https://github-readme-stats.vercel.app/api?username=starkex&show_icons=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=starkex&theme=dark&show_icons=true" align="center" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starkex&layout=compact" align="center" />  
 </div>
 <br/>  
