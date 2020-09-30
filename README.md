@@ -1,14 +1,14 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Shubham - aka [Robert Stark] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://devshubham.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Instagram Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/r3tro.shelby/)
 
 ## I'm a Gamer, Developer, and Teacher!
 
-- 🔭 I’m currently working on a ReactJS[website]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 Want to contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I’m currently working on a ReactJS!
+- 🌱 I’m currently learning everything. 🤣
+- 🥅 Want to contribute more to Open Source projects.
+- ⚡ Fun fact: I love to draw and play guitar / drums.
 
 ### Connect with me:
 
