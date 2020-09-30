@@ -13,24 +13,7 @@
 - ⚡ I am a Gamer 🎮 and 👨‍💻 Geek.
 
 <br />
-
-
-## Connect with me  
-<div align="center">
-
-<a href="https://github.com/starkex" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/RobertS55592450?s=08" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/r3tro.shelby/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
+ 
 <br />
 
 ### Tools:
@@ -93,6 +76,22 @@
 
 <br/> 
 
+## Connect with me  
+<div align="center">
+
+<a href="https://github.com/starkex" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/RobertS55592450?s=08" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/r3tro.shelby/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/> 
 
 ## Github Stats  
 <div style='justify-content:space-between;display:flex;flex-direction' >
