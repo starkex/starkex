@@ -1,10 +1,19 @@
 ### Hi there, I'm Shubham - aka [ Robert Stark ] 👋
 
-- 🔭 I’m currently working on a ReactJS!
-- 🌱 I’m currently learning everything. 🤣
-- 🥅 Want to contribute more to Open Source projects.
-- ⚡ Fun fact: I love to draw and play guitar / drums.
+- 🔭 I’m currently busy in increasing my Repositories on Github.
+  
+- 🌱 I’m currently learning everything xDD
+  
+- Ask me about anything related to Python, Java, React, MySQL and related technologies.
+  
+- 💻 All of my projects are available at [https://github.com/starkex](https://github.com/starkex)  
+  
+- 📫 How to reach me devshubham.work4u@gmail.com  
+  
+- ⚡ I am a Gamer 🎮 and 👨‍💻 Geek.
 
+<br />
+<br />
 ### Connect with me:
 
 [<img align="left" alt="devshubham.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
