@@ -41,7 +41,7 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" />
 <img style="margin: 10px" src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django" height="50" />  
+<img style="margin: 10px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django" height="30" />  
   
 </div>
 </td>
