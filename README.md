@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently busy in increasing my Repositories on Github.
   
-- 🌱 I’m currently learning everything xDD
+- 🌱 I’m currently learning everything xD
   
-- Ask me about anything related to Python, Java, React, MySQL and related technologies.
+- 💻 Ask me about anything related to Python, Java, React, MySQL and related technologies.
   
 - 💻 All of my projects are available at [https://github.com/starkex](https://github.com/starkex)  
   
@@ -36,7 +36,7 @@
 ### Tools:
 <table>
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="35%">
 <div >  
 <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNqpqyWlb2T-rKGhWyLAUdlMIRsov6dx7B0iqQbkUo3AUoTz2xac1r4mYiaDzDg7eYfxCQOYY1uzg5gE1X-_PGkBKoWVCG43-dwQ&usqp=CAU&ec=45707744" alt="Atom" height="50" />  
 <img style="margin: 10px" src="https://img.icons8.com/fluent/2x/visual-studio-code-2019.png" alt="Visual Studio Code" height="50" />  
@@ -45,8 +45,7 @@
 
 </div>
 </td>
-<td valign="top" width="25%">
-
+</tr>
 </table>  
 
 <br/> 
