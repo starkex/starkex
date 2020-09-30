@@ -1,4 +1,4 @@
-### Hi there, I'm Shubham - aka [ Robert Stark ] 👋
+### Konnichiwa, I'm Shubham - aka [ Robert Stark ] 👋
 
 - 🔭 I’m currently busy in increasing my Repositories on Github.
   
