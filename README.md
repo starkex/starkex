@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently busy in increasing my Repositories on Github.
   
-- 🌱 I’m currently learning everything xD
+- 🌱 I’m currently learning everything :)
   
-- 💻 Ask me about anything related to Python, Java, React, MySQL and related technologies.
+- 💻 You can ask me about related to Software Dev, Website Dev and some related technologies.
   
 - 💻 All of my projects are available at [https://github.com/starkex](https://github.com/starkex)  
   
@@ -89,7 +89,7 @@
 
 ## Github Stats  
 <div style='justify-content:space-between;display:flex;flex-direction' >
-<img src="https://github-readme-stats.vercel.app/api?username=starkex&theme=dark&show_icons=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=starkex&theme=great-gatsby&show_icons=true" align="center" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starkex&layout=compact" align="center" />  
 </div>
 <br/>  
