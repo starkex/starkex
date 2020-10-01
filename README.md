@@ -28,6 +28,9 @@
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" alt="Netbeans" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" height="50" /> 
+<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" alt="Java" height="50" /> 
+
+https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png
 </div>
 </td>
 
