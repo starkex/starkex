@@ -1,8 +1,8 @@
 ### Konnichiwa, I'm Shubham - aka [ Robert Stark ] 👋
 
-- 🔭 I’m currently busy in Upskilling myself.
+- 🔭 Currently busy in Upskilling myself.
   
-- 🌱 I’m currently learning everything :)
+- 🌱 I’m learning everything nowadays :)
   
 - 💻 You can ask me about related to Software Dev, Website Dev and some related technologies.
   
