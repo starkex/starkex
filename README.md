@@ -5,9 +5,7 @@
 - 🌱 I’m learning everything nowadays :)
   
 - 💻 You can ask me about related to Software Dev, Website Dev and some related technologies.
-  
-- 💻 All of my projects are available at [https://github.com/starkex](https://github.com/starkex)  
-  
+   
 - 📫 How to reach me devshubham.work4u@gmail.com  
   
 - ⚡ I am a Gamer 🎮 and 👨‍💻 Geek.
