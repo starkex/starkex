@@ -8,7 +8,7 @@
    
 - 📫 How to reach me devshubham.work4u@gmail.com  
   
-- ⚡ I am a Gamer 🎮 and 👨‍💻 Geek.
+
 
 <br />
  
