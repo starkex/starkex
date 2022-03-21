@@ -100,16 +100,8 @@
 
 <br/> 
 
-## Connect with me  
-<div align="center">
 
-<a href="https://github.com/starkex" target="_blank">
-</a>  
-<a href="mailto:devshubham.work4u@gmail.com" target="_blank">
-</a>  
-</div>  
-  
-
+ 
 <br/> 
 
 ## Github Stats  
