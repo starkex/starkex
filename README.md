@@ -8,7 +8,7 @@
    
 - 📫 How to reach me devshubham.work4u@gmail.com  
   
-
+- Linkedin - <a href='https://www.linkedin.com/in/shubham-gupta-0615b9205/'>Shubham Gupta</a>
 
 <br />
  
